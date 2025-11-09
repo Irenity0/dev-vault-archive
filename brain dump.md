@@ -1,0 +1,25 @@
+- [ ] module 12
+	- [ ] How the web works
+	- [ ] Frontend vs backend development~
+	- [ ] why nodejs was invented
+	- [ ] high level overview of nodejs architecture
+	- [ ] single threaded nodejs
+	- [ ] how event loop works
+	- [ ] install nodejs using fnm
+	- [ ] modular system in nodejs
+	- [ ] explore commonjs module
+	- [ ] name exports, name aliasing & index export
+	- [ ] IIFE a module wrapper
+	- [ ] es module & module summary
+- [ ] Explore Nodejs Core Modules
+	- [ ] Synchronous way to read and write files
+	- [ ] asynchronous way to read and write files
+	- [ ] buffer and streaming
+	- [ ] making a basic logger app & path module
+	- [ ] creating a todo app with basic http server using nodejs
+	- [ ] routing in nodejs
+	- [ ] set response headers
+	- [ ] creating and reading a todo using postman
+	- [ ] get single todo with query params
+	- [ ] updating and deleting todo
+	- [ ] module summary

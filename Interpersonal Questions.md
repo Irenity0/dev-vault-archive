@@ -1,0 +1,9 @@
+1. Hi, I am Afra Anjum. I turned 16 recently and I dropped out of school and started studying for IGCSE by myself. I have an year of experience in web design as well as development and a couple years of experince in creative/technical writing. I have a strong passion for programming and an always hungry for knowledge mind. I can learn anything in the least amount of time possible!
+2. I have a strong work ethic. I am disciplined. I am also enthaustic about the job and development field. I believe my endless motivation and hunger for new knowledge will make me a useful member for this team
+3. I'd be enlightened to work with a company with such great achievements and strong team. I like the dynamics and the environment of this company. My skills are matching with the requirements for the remaining position as well
+4. I might come off as a bit too straightforward at times. As I am extremely honest and put logic over emotions. However I have been trying to be more soft and helpful to other people. 
+5. I am disciplined and curious like neverending. I always like to study and explore new things. I don't ever need external motivation as I am always self-motivation. Thanks to that, I also never burn out
+6. My short-term goal is to be a jack of all trades and the long-term is to be the master of all trades. I want to dive deeper into development and gain as much as knowledge and experience as I can
+
+
+I have a strong work ethic. I keep myself disciplined. I am also very enthuastic about working at Programming Hero. It's like a dream for me. I have known PH since I was in like 5th grade. I always felt fascinated about their mission, to help people, especially students to learn and kickstart their career

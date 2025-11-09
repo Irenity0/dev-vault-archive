@@ -1,0 +1,1 @@
+The practice of passing data through props from a parent component down through multiple layers of child components, even though some of those intermediary components don't actually need the data, is called prop drilling. It is a bad practice and makes the code difficult to read and maintain.

@@ -1,0 +1,1 @@
+props (short for "properties") are a mechanism for passing data and event handlers from one component to another, typically from a parent component to a child component.

@@ -1,0 +1,10 @@
+- hoisting ki, filter, map, find, 
+- oi case er problem
+- multi-threaded, 
+- event loop
+- asynchronous js
+- destructuring
+- arr methods
+- middleware ki
+- context API
+- lexical scope
